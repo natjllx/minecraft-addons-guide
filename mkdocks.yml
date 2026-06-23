@@ -1,0 +1,31 @@
+site_name: Guia de Addons de Minecraft
+site_description: Documentação do zero ao avançado para criação de addons.
+site_author: Natjllx
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: Mudar para tema escuro
+     - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para tema claro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+nav:
+  - Início: index.md
+  - Módulo Básico:
+    - Introdução: basico/introducao.md
