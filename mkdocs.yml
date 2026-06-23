@@ -35,15 +35,15 @@ nav:
   - Aprender:
     - Início:
       - Introdução: index.md
-      - Configuração: aprender/inicio/configuracao.md
-      - Estrutura: aprender/inicio/estrutura.md
+      - Configuração: docs/aprender/inicio/configuracao.md
+      - Estrutura: docs/aprender/inicio/estrutura.md
     - Dominando o JSON:
-      - O que é JSON: aprender/json/conceito.md
-      - Criando Itens: aprender/json/itens.md
-      - Criando Blocos: aprender/json/blocos.md
+      - O que é JSON: docs/aprender/json/conceito.md
+      - Criando Itens: docs/aprender/json/itens.md
+      - Criando Blocos: docs/aprender/json/blocos.md
     - Módulo Intermediário:
-      - Modificando Mobs: aprender/intermediario/mobs.md
-      - Tabelas de Drops: aprender/intermediario/drops.md
+      - Modificando Mobs: docs/aprender/intermediario/mobs.md
+      - Tabelas de Drops: docs/aprender/intermediario/drops.md
     - Módulo Avançado (Scripts):
-      - Introdução ao GameTest: aprender/avancado/gametest.md
-      - Criando Eventos: aprender/avancado/eventos.md
+      - Introdução ao GameTest: docs/aprender/avancado/gametest.md
+      - Criando Eventos: docs/aprender/avancado/eventos.md
