@@ -16,18 +16,75 @@ theme:
     - search.highlight
 
 nav:
-  - Aprender:
-    - Início:
-      - Introdução: index.md
-      - Configuração: aprender/inicio/configuracao.md
-      - Estrutura: aprender/inicio/estrutura.md
-    - Dominando o JSON:
-      - O que é JSON: aprender/json/conceito.md
-      - Criando Itens: aprender/json/itens.md
-      - Criando Blocos: aprender/json/blocks.md
-    - Módulo Intermediário:
-      - Modificando Mobs: aprender/intermediario/mobs.md
-      - Tabelas de Drops: aprender/intermediario/drops.md
-    - Módulo Avançado (Scripts):
-      - Introdução ao GameTest: aprender/avancado/gametest.md
-      - Criando Eventos: aprender/avancado/eventos.md
+  - 🚀 COMEÇAR:
+    - index.md
+    - O que é um Addon?: comecar/o-que-e.md
+    - Requisitos & Instalação: comecar/instalacao.md
+    - Seu Primeiro Addon: comecar/primeiro-addon.md
+    - Estrutura de Pastas: comecar/estrutura.md
+
+  - 📚 GUIAS POR NÍVEL:
+    - 🟢 INICIANTE:
+      - Entendendo a estrutura: guias/iniciante/estrutura.md
+      - Criando um bloco simples: guias/iniciante/bloco.md
+      - Criando um item: guias/iniciante/item.md
+      - Adicionando receitas: guias/iniciante/receitas.md
+      - Primeiro addon completo: guias/iniciante/addon-completo.md
+    - 🟡 INTERMEDIÁRIO:
+      - Eventos e Listeners: guias/intermediario/eventos.md
+      - NPCs e Entidades: guias/intermediario/entidades.md
+      - Biomas customizados: guias/intermediario/biomas.md
+      - Dimensões: guias/intermediario/dimensoes.md
+      - Loot tables: guias/intermediario/loot-tables.md
+      - Geração procedural: guias/intermediario/geracao.md
+    - 🔴 AVANÇADO:
+      - Partículas customizadas: guias/avancado/particulas.md
+      - Modelos 3D Customizados: guias/avancado/modelos.md
+      - Networking & Multiplayer: guias/avancado/multiplayer.md
+      - Performance & Otimização: guias/avancado/performance.md
+      - Compilando para produção: guias/avancado/producao.md
+      - Debugging: guias/avancado/debugging.md
+
+  - 🔧 REFERÊNCIA TÉCNICA:
+    - 📋 IDs & Constantes:
+      - IDs de Blocos: referencia/ids/blocos.md
+      - IDs de Items: referencia/ids/itens.md
+      - IDs de Entidades: referencia/ids/entidades.md
+      - Códigos de Eventos: referencia/ids/eventos.md
+    - 💻 API:
+      - Block API: referencia/api/block.md
+      - Item API: referencia/api/item.md
+      - Entity API: referencia/api/entity.md
+      - Event System: referencia/api/eventos.md
+      - Utility Functions: referencia/api/utils.md
+    - 📄 Arquivos de Config:
+      - manifest.json: referencia/config/manifest.md
+      - package.json: referencia/config/package.md
+      - Variáveis de Ambiente: referencia/config/variaveis.md
+    - 🎨 Formatos de Arquivo:
+      - JSON Structure: referencia/formatos/json.md
+      - Textura (PNG/JPG): referencia/formatos/texturas.md
+      - Modelos 3D: referencia/formatos/modelos3d.md
+      - Sons: referencia/formatos/sons.md
+    - 🚨 Códigos de Erro:
+      - Mensagens comuns: referencia/erros/comuns.md
+
+  - 📖 CONCEITOS & EXPLICAÇÕES:
+    - Como funcionam os eventos: conceitos/eventos.md
+    - Entendendo o loader: conceitos/loader.md
+    - Ciclo de vida: conceitos/ciclo-de-vida.md
+    - Boas práticas: conceitos/boas-praticas.md
+    - Arquitetura de projeto: conceitos/arquitetura.md
+
+  - 🔍 EXEMPLOS & TEMPLATES:
+    - Addon Minimalista: exemplos/minimalista.md
+    - Addon com Bioma: exemplos/bioma.md
+    - Addon com NPC: exemplos/npc.md
+    - Addon com Sistema de Magia: exemplos/magia.md
+    - Repositório de exemplos: exemplos/github.md
+
+  - ❓ SUPORTE:
+    - FAQ: suporte/faq.md
+    - Troubleshooting comum: suporte/troubleshooting.md
+    - Perguntas frequentes: suporte/perguntas.md
+    - Comunidade/Discord: suporte/discord.md
