@@ -6,10 +6,10 @@ theme:
   name: material
   language: pt-BR
   palette:
-    - media: "(prefers-color-scheme: light)"
+    - media: "(prefers-color-scheme: black)"
       scheme: default
-      primary: green
-      accent: light green
+      primary: black
+      accent: blue
       toggle:
         icon: material/weather-night
         name: Mudar para tema escuro
