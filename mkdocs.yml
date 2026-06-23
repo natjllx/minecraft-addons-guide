@@ -27,23 +27,18 @@ theme:
     - search.highlight
 
 nav:
-  - Início: index.md
-  
-  - 🚀 Primeiros Passos:
-    - Bem-vindo ao Mundo dos Addons: introducao/bem-vindo.md
-    - Onde tudo acontece (Pastas e Ferramentas): introducao/ambiente.md
-    - O Registro de Nascimento do seu Addon: introducao/identidade.md
-    - O Casamento Perfeito (Visual vs Lógica): introducao/visual-logica.md
-
-  - 🧱 Moldando o Jogo com JSON:
-    - Desmistificando o JSON: json/o-que-e-json.md
-    - Criando Objetos (Itens): json/criando-itens.md
-    - Erguendo Paredes (Blocos): json/criando-blocos.md
-    - Controlando a Mente das Criaturas: json/modificando-mobs.md
-    - Recompensas e Receitas: json/recompensas-receitas.md
-
-  - 💻 Dando Vida com Scripts:
-    - As Paredes do JSON (Por que ir além?): scripts/limites-json.md
-    - Conhecendo o Motor (O que é GameTest?): scripts/gametest.md
-    - Ação e Reação (Eventos Inteligentes): scripts/eventos.md
-    - Telas e Menus (Interface do Jogador): scripts/interfaces.md
+  - Aprender:
+    - Início:
+      - Introdução: index.md
+      - Configuração: aprender/inicio/configuracao.md
+      - Estrutura: aprender/inicio/estrutura.md
+    - Dominando o JSON:
+      - O que é JSON: aprender/json/conceito.md
+      - Criando Itens: aprender/json/itens.md
+      - Criando Blocos: aprender/json/blocos.md
+    - Módulo Intermediário:
+      - Modificando Mobs: aprender/intermediario/mobs.md
+      - Tabelas de Drops: aprender/intermediario/drops.md
+    - Módulo Avançado (Scripts):
+      - Introdução ao GameTest: aprender/avancado/gametest.md
+      - Criando Eventos: aprender/avancado/eventos.md
