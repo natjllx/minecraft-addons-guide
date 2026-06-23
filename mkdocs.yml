@@ -13,7 +13,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Mudar para tema escuro
-     - media: "(prefers-color-scheme: dark)"
+    - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: green
       accent: light green
@@ -25,6 +25,7 @@ theme:
     - navigation.sections
     - search.suggest
     - search.highlight
+
 nav:
   - Início: index.md
   - Módulo Básico:
