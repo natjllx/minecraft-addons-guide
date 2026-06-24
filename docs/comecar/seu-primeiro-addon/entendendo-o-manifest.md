@@ -1,14 +1,4 @@
-# Modificando a Terra
-
-Iremos criar nosso primeiro addon para entender melhor como tudo funciona na prática.
-
-## Passo 1: Criar a Pasta do Addon
-
-1. Abra a pasta **development_resource_packs**
-2. Crie uma nova pasta com um nome descritivo, por exemplo: **primeiro_addon_rp** (rp significa Resource Pack)
-3. Dentro dessa pasta, crie um arquivo chamado **manifest.json**
-
-## Passo 2: Entender o Manifest.json
+## Passo 2: Criando e entendendo o Manifest.json
 
 O manifest.json é um arquivo essencial que contém informações básicas sobre seu addon. Sem ele, o Minecraft não consegue reconhecer nem carregar seu addon.
 
