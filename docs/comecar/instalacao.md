@@ -7,4 +7,9 @@ O editor de código que eu recomendo é o Visual Studio Code, caso queira ela, c
 
 ### Extensões essenciais do VsCode:
 Elas seão útil mais pra frente, mas é bom estar preparado para quando estiver pronto.
-*Bedrock Definitions*
+-**Bedrock Definitions** autor: destruc7i0n
+-**Minecraft Bedrock Debugger** autor: Mojang Studios
+-**Blockception's Minecraft Bedrock Development** autor: Blockception Ltd
+
+
+
