@@ -23,4 +23,6 @@ nav:
     - Requisitos & Instalação: comecar/instalacao.md
     - Estrutura de Pastas: comecar/estrutura.md
     - O que é JSON?: comecar/o-que-e-json.md
-    - Entendendo a estrutura base: comecar/estrutura-base.md
+  - SEU PRIMEIRO ADDON:
+    - Modificando a terra: /modificando-a-terra.md
+    - Aprofundando o manifest: /aprofundando-o-manifest.md
