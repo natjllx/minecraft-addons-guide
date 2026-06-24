@@ -6,7 +6,7 @@ Para isso, abra a pasta **development_resource_packs**, dentro dela crie outa pa
 o que é manifest json?
 O manifest json é um arquivo que contém informações básicas, mas essenciais pro miencraft reconhecer e fazer ela funcionar.
 
-´´´
+```
 {
   "format_version": 2,
   "header": {
@@ -42,4 +42,4 @@ O manifest json é um arquivo que contém informações básicas, mas essenciais
     "url": "example.com"
   }
 }
-´´´
+```
