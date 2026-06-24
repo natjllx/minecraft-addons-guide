@@ -17,7 +17,7 @@ theme:
     - search.highlight
 
 nav:
-  - O COMEÇO:
+  - COMECE AQUI!:
     - index.md
     - O que é um Addon?: comecar/o-que-e.md
     - Requisitos & Instalação: comecar/instalacao.md
