@@ -24,5 +24,5 @@ nav:
     - Estrutura de Pastas: comecar/estrutura.md
     - O que é JSON?: comecar/o-que-e-json.md
   - SEU PRIMEIRO ADDON:
-    - Modificando a terra: comecar/seu-primeiro-addon/modificando-a-terra.md
-    - Aprofundando o manifest: comecar/seu-primeiro-addon/aprofundando-o-manifest.md
+    - Modificando a terra: comecar/seu-primeiro-addon/criando-pasta.md
+    - Aprofundando o manifest: comecar/seu-primeiro-addon/entendendo-o-manifest.md
