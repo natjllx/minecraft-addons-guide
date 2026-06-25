@@ -1,1 +1,1 @@
-
+# Entendendo algumas coisas
